@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **emleons23@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://stackoverflow.com/users/14203393/emleons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emleons" height="30" width="40" /></a>
 <a href="https://instagram.com/em_leons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="em_leons" height="30" width="40" /></a>
