@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flask, React**
 
-- 👨‍💻 Website [emleons.online](emleons.online)
+- :globe_with_meridians: Website [emleons.online](emleons.online)
 
 - 📫 How to reach me **emleons23@gmail.com**
 
