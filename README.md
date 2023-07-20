@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer </h3>
 
 
-- 🌱 I’m currently learning **Flask, React**
+- 🌱 I’m currently learning **Flask, Flutter**
 
 - :globe_with_meridians: Website [emleons.online](emleons.online)
 
