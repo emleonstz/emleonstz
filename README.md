@@ -2,7 +2,6 @@
 <h3 align="center">A passionate software developer from Tanzania</h3>
 
 
-
 - 🌱 I’m currently learning **Flask, React**
 
 - 👨‍💻 Website [emleons.online](emleons.online)
