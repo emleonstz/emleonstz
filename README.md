@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EmLeons</h1>
 <h3 align="center">A passionate software developer from Tanzania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emleonstz&label=Profile%20views&color=0e75b6&style=flat" alt="emleonstz" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emleonstz" alt="emleonstz" /></a> </p>
 
