@@ -2,7 +2,7 @@
 
 
 
-- :recycle: **Coding, Test, Debug, Dlopy, Learning, Gaming, Eating,Sleep = :alien:?**
+- :recycle: **Coding, Test, Debug, Dlopy, Learning, Gaming, Eating,Sleep :alien:?**
 
 - 🌱 I’m currently learning **Flask, Flutter**
 
