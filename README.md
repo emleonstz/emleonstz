@@ -2,6 +2,8 @@
 <h3 align="center">A passionate software developer </h3>
 
 
+- :recycle Always **Coding, Learning, Gaming, Eating**
+
 - 🌱 I’m currently learning **Flask, Flutter**
 
 - :globe_with_meridians: Website [emleons.online](emleons.online)
