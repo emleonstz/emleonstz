@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer </h3>
 
 
-- :recycle Always **Coding, Learning, Gaming, Eating**
+- :recycle: Always **Coding, Learning, Gaming, Eating**
 
 - 🌱 I’m currently learning **Flask, Flutter**
 
