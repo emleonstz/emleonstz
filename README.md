@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emleonstz&show_icons=true&locale=en&layout=compact&theme=radical" alt="emleonstz" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emleonstz&show_icons=true&locale=en&layout=compact&theme=merko" alt="emleonstz" /></p>
