@@ -21,7 +21,7 @@
 
 <!-- replace your_username with your actual username -->
 
-[<codersrank-summary username="emleonstz"></codersrank-summary>](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=emleonstz)
+![<codersrank-summary username="emleonstz"></codersrank-summary>](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=emleonstz)
 
 
 
