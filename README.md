@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EmLeons</h1>
-<script src="https://unpkg.com/@codersrank/summary@2.0.1/codersrank-summary.min.js"></script>
+
 
 
 - :recycle: What I like to do -R **Learning, Coding, Test, Debug, Gaming, Eating, Sleep :alien:?**
@@ -21,7 +21,7 @@
 
 <!-- replace your_username with your actual username -->
 
-<codersrank-summary username="emleonstz"></codersrank-summary>
+[<codersrank-summary username="emleonstz"></codersrank-summary>](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=emleonstz)
 
 
 
