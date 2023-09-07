@@ -21,7 +21,7 @@
 
 <!-- replace your_username with your actual username -->
 
-![<codersrank-summary username="emleonstz"></codersrank-summary>](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=emleonstz)
+! [CodersRank logo] (https://cdn.codersrank.io/brand/codersrank_logo.png “CodersRank”)
 
 
 
