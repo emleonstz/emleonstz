@@ -2,7 +2,6 @@
 
 
 
-- :recycle: What I like to do  **Learning, Coding, Test, Debug, Gaming, Sleep :alien:?**
 
 - 🌱 I’m currently learning **Flask, Flutter**
 
