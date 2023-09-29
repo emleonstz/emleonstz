@@ -3,7 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **Flask, Flutter**
 
 - :globe_with_meridians: My Website: [website](https://emleons.online)
 
@@ -15,7 +14,6 @@
 <a href="https://instagram.com/em_leons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="em_leons" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emleonstz&hide_progress=false&theme=dark&layout=compact)
 
 
 
