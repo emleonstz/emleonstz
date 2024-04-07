@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **emleons23@gmail.com**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emleonstz&theme=aura_dark&exclude=HTML)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emleonstz&theme=aura_dark&exclude=HTML&exclude=CSS)
 
 
 
