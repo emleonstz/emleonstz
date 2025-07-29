@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm EmLeons</h1>
 
 
-
-- 📫 How to reach me **emleons23@gmail.com**
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emleonstz&theme=aura_dark&exclude=CSS,HTML)
 
 
