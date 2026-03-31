@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EmLeons</h1>
 
 <p align="center">
-  Full Stack Developer | Building scalable systems | Always learning
+  Full Stack Developer | Building Apps & Games | Always learning
 </p>
 
 ---
