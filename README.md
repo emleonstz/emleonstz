@@ -5,9 +5,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Insights
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emleonstz&theme=aura_dark&exclude=CSS,HTML" />
   <br/>
