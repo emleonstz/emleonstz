@@ -74,14 +74,17 @@
 ## 📌 Current Focus
 
 * 🚀 Building SaaS products (QR, automation, backend systems)
+* 🚀 Publish indie games & experiment with gameplay systems
 * 🔐 Improving application security practices
 * ⚡ Performance optimization & scaling
+* 🧩 Building games with Godot Engine
 
 ---
 
 ## 🤝 Connect
 
 * GitHub: https://github.com/emleonstz
+* Instagram: https://www.instagram.com/em_leons/
 
 ---
 
